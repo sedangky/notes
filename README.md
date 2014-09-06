@@ -1,1 +1,0 @@
-ghi chép linh tinh
