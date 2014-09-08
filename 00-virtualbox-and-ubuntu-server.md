@@ -11,7 +11,7 @@
 - Static ip (local network)
 - apt-fast
 - Git
-- `ssh-keygen`, copy public key (`id_rsa.pub`) to Github/Bitbucket
+- `ssh-keygen`, copy public key (content of `~/.ssh/id_rsa.pub`) to Github/Bitbucket
 - Ruby, Jekyll
 - Nodejs, docpad, grunt, bower etc...
 
