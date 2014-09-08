@@ -10,10 +10,10 @@
 ##pre-launch:
 - Static ip (local network)
 - apt-fast
-- Git
+- Git: `sudo add-apt-repository ppa:git-core/ppa` before install
 - `ssh-keygen`, copy public key (content of `~/.ssh/id_rsa.pub`) to Github/Bitbucket
-- Ruby, Jekyll
-- Nodejs, docpad, grunt, bower, harp etc...
+- Ruby (upgrade to newer version, should use [rvm](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-ubuntu-14-04-using-rvm)), Jekyll (`sudo gem install jekyll --no-rdoc --no-ri`)
+- Nodejs (**should not** install via `apt-get`), docpad, grunt, bower, harp etc...
 
 ##Tools:
 - Sublime Text: http://www.sublimetext.com/2 (mac, windows)
