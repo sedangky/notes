@@ -13,7 +13,7 @@
 - Git
 - `ssh-keygen`, copy public key (content of `~/.ssh/id_rsa.pub`) to Github/Bitbucket
 - Ruby, Jekyll
-- Nodejs, docpad, grunt, bower etc...
+- Nodejs, docpad, grunt, bower, harp etc...
 
 ##Tools:
 - Sublime Text: http://www.sublimetext.com/2 (mac, windows)
