@@ -9,7 +9,7 @@
 
 ##pre-launch:
 - Static ip (local network)
-- apt-fast
+- apt-fast: `sudo add-apt-repository ppa:saiarcot895/myppa` before install
 - Git: `sudo add-apt-repository ppa:git-core/ppa` before install
 - `ssh-keygen`, copy public key (content of `~/.ssh/id_rsa.pub`) to Github/Bitbucket
 - Ruby (upgrade to newer version, should use [rvm](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-ubuntu-14-04-using-rvm)), Jekyll (`sudo gem install jekyll --no-rdoc --no-ri`)
